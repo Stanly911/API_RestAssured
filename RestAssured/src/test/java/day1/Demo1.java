@@ -9,7 +9,7 @@ public class Demo1 {
   @Test
   public void f() {
 	  Response r;
-	  r = RestAssured.get("	https://dummy.restapiexample.com/api/v1/employees");
+	  r = RestAssured.get("https://dummy.restapiexample.com/api/v1/employees");
 	  System.out.println(r);
 	  
 	  System.out.println("Body : "+r.getBody().toString());
