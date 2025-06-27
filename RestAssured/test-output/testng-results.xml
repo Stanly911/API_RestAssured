@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-17T20:20:47 IST" name="Default suite" finished-at="2022-07-17T20:20:53 IST" duration-ms="6028">
+  <suite started-at="2025-06-27T11:58:20 IST" name="Default suite" finished-at="2025-06-27T11:58:24 IST" duration-ms="4012">
     <groups>
     </groups>
-    <test started-at="2022-07-17T20:20:47 IST" name="Default test" finished-at="2022-07-17T20:20:53 IST" duration-ms="6028">
-      <class name="GitHub.repoReqChaining">
-        <test-method signature="Repo()[pri:0, instance:GitHub.repoReqChaining@378542de]" started-at="2022-07-17T20:20:47 IST" name="Repo" finished-at="2022-07-17T20:20:53 IST" duration-ms="5945" status="PASS">
+    <test started-at="2025-06-27T11:58:20 IST" name="Default test" finished-at="2025-06-27T11:58:24 IST" duration-ms="4012">
+      <class name="day2.Get_Demo_2">
+        <test-method signature="f()[pri:0, instance:day2.Get_Demo_2@378542de]" started-at="2025-06-27T11:58:20 IST" name="f" finished-at="2025-06-27T11:58:24 IST" duration-ms="3948" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Repo -->
-      </class> <!-- GitHub.repoReqChaining -->
+        </test-method> <!-- f -->
+      </class> <!-- day2.Get_Demo_2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
