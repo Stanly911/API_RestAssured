@@ -10,7 +10,7 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 
 public class Post_Demo_1 {
-  @Test(enabled = false)
+  @Test()
   public void f() {
 	  RestAssured.baseURI = "https://reqres.in";
 	  RequestSpecification req = RestAssured.given();
